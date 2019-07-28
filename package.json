@@ -1,0 +1,23 @@
+{
+  "name": "influencer",
+  "version": "1.0.0",
+  "description": "Set of scripts that help you hack your social presence and automate your goals.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadeallencook/Influnence.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jadeallencook/Influnence/issues"
+  },
+  "homepage": "https://github.com/jadeallencook/Influnence#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.38.0"
+  }
+}
