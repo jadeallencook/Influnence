@@ -1,4 +1,4 @@
-# Influencer
+# Influencer V0.0.1
 
 Set of scripts that help you hack your social presence and automate your goals.
 
@@ -33,12 +33,12 @@ Set of scripts that help you hack your social presence and automate your goals.
     * Message Reply (Expected 0.0.5) ❌
 
 ### Twitter (Expected 0.2.1)
-    * Like Automation ❌
-        * Feed (Expected 0.2.1) ❌
-        * Hashtag (Expected 0.2.1) ❌
-        * Profile (Expected 0.2.1) ❌
-    * Reply Automation ❌
-        * Hashtag (Expected 0.2.2) ❌
-        * Keywords (Expected 0.2.2) ❌
+* Like Automation ❌
+    * Feed (Expected 0.2.1) ❌
+    * Hashtag (Expected 0.2.1) ❌
+    * Profile (Expected 0.2.1) ❌
+* Reply Automation ❌
+    * Hashtag (Expected 0.2.2) ❌
+    * Keywords (Expected 0.2.2) ❌
 
 ### Tumblr (Expected 0.3.1)
